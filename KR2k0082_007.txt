@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 鄭開陽雜著
-#+DATE: 2019-03-29 20:55:30.234919
+#+DATE: 2019-03-29 20:55:30.329398
 #+PROPERTY: ID KR2k0082
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR2k0082_WYG_007-1a>¶
 <pb:KR2k0082_WYG_007-1b>¶
@@ -64,7 +64,7 @@
 外裔則可若置海於下則先自立於海中自列於外¶
 <pb:KR2k0082_WYG_007-15b>¶
 裔矣倒視中國可乎或又曰以圖作屏立而觀之若¶
-嫌乎登𡗝於華若曾曰圖之作豈專為屏用哉錄之¶
+嫌乎登夷於華若曾曰圖之作豈專為屏用哉錄之¶
 書册置之几案但見逺近不見上下矣昔大司馬黙¶
 齋許公(論)圖畫九邊於屏亦以北狄居上天下不以¶
 為非也夫何嫌或又曰天地定向以北為上以南為¶

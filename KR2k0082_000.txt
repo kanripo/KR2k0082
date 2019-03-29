@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 鄭開陽雜著
-#+DATE: 2019-03-29 20:55:30.168994
+#+DATE: 2019-03-29 20:55:30.266884
 #+PROPERTY: ID KR2k0082
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2k0082_WYG_000-1a>¶
 　　欽定四庫全書　　　　史部十一¶
